@@ -6,16 +6,14 @@ Rainfall is a key factor for mushroom growth — many edible species appear a fe
 
 ## Goals
 - Collect and process precipitation data (e.g., from GeoSphere Austria).
-- Aggregate rainfall amounts by region (districts, municipalities).
+- Aggregate rainfall amounts by region.
 - Visualize recent precipitation sums on an interactive map.
 - Provide an easy way to check where conditions are good for mushroom hunting.
 
 ## Features (planned)
-- Automated data retrieval for the past 3–7 days.
-- Threshold highlighting (e.g., regions with >20 mm rainfall).
-- Mobile-friendly interactive map (Leaflet-based).
-- Option to host the map via GitHub Pages.
+- Automated data retrieval for the past ~week.
+- Mobile-friendly interactive map.
 
 ## Status
-Early prototype — data processing and map rendering in progress.
+Currently working on a first prototype.
 
